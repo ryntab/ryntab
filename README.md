@@ -2,5 +2,5 @@
 
 My name is Ryan, find me here https://ryntab.me 
 
-[![My Skills](https://skillicons.dev/icons?i=nuxtjs,nextjs,vue,nodejs,supabase,express,php,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nuxtjs,nextjs,vue,nodejs,supabase,express,php,ruby)](https://skillicons.dev)
 
